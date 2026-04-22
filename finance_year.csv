@@ -1,0 +1,720 @@
+Date,Category,Amount,Payment_Method
+2025-01-01,Shopping,583,Bank Transfer
+2025-01-02,Bills,388,Cash
+2025-01-02,Transport,62,Cash
+2025-01-03,Shopping,216,Bank Transfer
+2025-01-03,Shopping,613,Bank Transfer
+2025-01-04,Health,265,Cash
+2025-01-04,Bills,261,Cash
+2025-01-04,Food,159,Cash
+2025-01-05,Transport,75,Credit Card
+2025-01-05,Food,113,Bank Transfer
+2025-01-05,Transport,80,Cash
+2025-01-06,Shopping,217,Credit Card
+2025-01-06,Shopping,440,Bank Transfer
+2025-01-07,Health,215,Bank Transfer
+2025-01-07,Shopping,715,Bank Transfer
+2025-01-08,Transport,88,Cash
+2025-01-09,Entertainment,169,Credit Card
+2025-01-09,Health,214,Credit Card
+2025-01-10,Entertainment,169,Bank Transfer
+2025-01-11,Transport,55,Cash
+2025-01-12,Shopping,729,Credit Card
+2025-01-12,Transport,48,Bank Transfer
+2025-01-13,Entertainment,98,Credit Card
+2025-01-14,Bills,257,Cash
+2025-01-15,Entertainment,72,Cash
+2025-01-15,Food,35,Bank Transfer
+2025-01-16,Shopping,481,Cash
+2025-01-17,Shopping,977,Credit Card
+2025-01-18,Entertainment,139,Cash
+2025-01-18,Entertainment,196,Cash
+2025-01-18,Food,192,Cash
+2025-01-19,Health,107,Credit Card
+2025-01-19,Bills,225,Bank Transfer
+2025-01-19,Health,255,Cash
+2025-01-20,Health,174,Bank Transfer
+2025-01-21,Shopping,664,Bank Transfer
+2025-01-22,Bills,208,Cash
+2025-01-22,Entertainment,129,Cash
+2025-01-22,Bills,224,Cash
+2025-01-23,Transport,29,Bank Transfer
+2025-01-23,Health,187,Cash
+2025-01-23,Bills,192,Credit Card
+2025-01-24,Bills,359,Credit Card
+2025-01-24,Shopping,944,Bank Transfer
+2025-01-24,Transport,48,Cash
+2025-01-25,Health,268,Bank Transfer
+2025-01-26,Transport,66,Credit Card
+2025-01-27,Shopping,687,Credit Card
+2025-01-27,Health,274,Credit Card
+2025-01-27,Transport,12,Cash
+2025-01-28,Food,178,Cash
+2025-01-29,Transport,100,Cash
+2025-01-29,Bills,373,Cash
+2025-01-30,Transport,58,Cash
+2025-01-30,Bills,347,Cash
+2025-01-31,Entertainment,125,Bank Transfer
+2025-01-31,Food,164,Credit Card
+2025-01-31,Food,113,Credit Card
+2025-02-01,Food,147,Cash
+2025-02-01,Transport,82,Cash
+2025-02-02,Health,229,Credit Card
+2025-02-03,Food,156,Credit Card
+2025-02-03,Entertainment,128,Bank Transfer
+2025-02-03,Transport,64,Cash
+2025-02-04,Transport,79,Cash
+2025-02-04,Transport,95,Credit Card
+2025-02-05,Transport,66,Cash
+2025-02-06,Health,239,Bank Transfer
+2025-02-07,Shopping,842,Credit Card
+2025-02-07,Bills,399,Cash
+2025-02-07,Transport,54,Credit Card
+2025-02-08,Health,181,Credit Card
+2025-02-08,Shopping,912,Cash
+2025-02-09,Transport,49,Credit Card
+2025-02-10,Transport,90,Cash
+2025-02-11,Shopping,362,Cash
+2025-02-11,Transport,56,Cash
+2025-02-11,Health,171,Credit Card
+2025-02-12,Health,299,Cash
+2025-02-12,Entertainment,65,Credit Card
+2025-02-12,Health,186,Cash
+2025-02-13,Entertainment,144,Cash
+2025-02-13,Health,83,Cash
+2025-02-14,Entertainment,130,Credit Card
+2025-02-14,Food,200,Credit Card
+2025-02-14,Health,81,Cash
+2025-02-15,Food,155,Cash
+2025-02-16,Shopping,949,Credit Card
+2025-02-16,Food,173,Credit Card
+2025-02-16,Health,192,Cash
+2025-02-17,Shopping,840,Cash
+2025-02-18,Shopping,728,Credit Card
+2025-02-18,Health,154,Credit Card
+2025-02-19,Entertainment,123,Credit Card
+2025-02-19,Entertainment,153,Cash
+2025-02-19,Bills,329,Cash
+2025-02-20,Shopping,619,Cash
+2025-02-20,Health,294,Credit Card
+2025-02-20,Food,109,Credit Card
+2025-02-21,Entertainment,171,Credit Card
+2025-02-21,Bills,369,Credit Card
+2025-02-22,Bills,332,Credit Card
+2025-02-22,Transport,77,Bank Transfer
+2025-02-23,Transport,96,Bank Transfer
+2025-02-23,Food,178,Credit Card
+2025-02-23,Shopping,317,Credit Card
+2025-02-24,Health,259,Credit Card
+2025-02-25,Shopping,991,Bank Transfer
+2025-02-26,Food,200,Credit Card
+2025-02-26,Bills,115,Credit Card
+2025-02-26,Shopping,941,Bank Transfer
+2025-02-27,Shopping,876,Bank Transfer
+2025-02-27,Food,175,Credit Card
+2025-02-28,Bills,285,Bank Transfer
+2025-02-28,Transport,84,Cash
+2025-03-01,Transport,37,Bank Transfer
+2025-03-01,Shopping,521,Bank Transfer
+2025-03-02,Entertainment,64,Credit Card
+2025-03-03,Bills,350,Cash
+2025-03-03,Transport,66,Credit Card
+2025-03-03,Bills,361,Cash
+2025-03-04,Entertainment,112,Bank Transfer
+2025-03-05,Bills,223,Credit Card
+2025-03-05,Transport,21,Bank Transfer
+2025-03-05,Entertainment,181,Cash
+2025-03-06,Health,295,Bank Transfer
+2025-03-06,Entertainment,56,Credit Card
+2025-03-06,Health,236,Credit Card
+2025-03-07,Transport,28,Bank Transfer
+2025-03-07,Transport,24,Bank Transfer
+2025-03-08,Food,173,Bank Transfer
+2025-03-09,Shopping,356,Bank Transfer
+2025-03-09,Entertainment,162,Credit Card
+2025-03-09,Health,154,Bank Transfer
+2025-03-10,Food,40,Cash
+2025-03-11,Transport,64,Cash
+2025-03-12,Bills,335,Credit Card
+2025-03-12,Food,73,Credit Card
+2025-03-13,Bills,287,Credit Card
+2025-03-13,Shopping,547,Bank Transfer
+2025-03-13,Entertainment,183,Bank Transfer
+2025-03-14,Bills,149,Credit Card
+2025-03-15,Entertainment,105,Bank Transfer
+2025-03-15,Food,165,Bank Transfer
+2025-03-15,Shopping,744,Bank Transfer
+2025-03-16,Bills,147,Credit Card
+2025-03-16,Bills,176,Cash
+2025-03-17,Transport,32,Credit Card
+2025-03-17,Transport,18,Bank Transfer
+2025-03-17,Food,151,Credit Card
+2025-03-18,Food,146,Cash
+2025-03-19,Food,67,Cash
+2025-03-20,Health,161,Cash
+2025-03-21,Bills,395,Cash
+2025-03-22,Health,200,Bank Transfer
+2025-03-23,Entertainment,62,Bank Transfer
+2025-03-23,Transport,72,Credit Card
+2025-03-24,Entertainment,110,Credit Card
+2025-03-24,Shopping,961,Credit Card
+2025-03-25,Food,156,Bank Transfer
+2025-03-25,Health,52,Cash
+2025-03-26,Shopping,492,Bank Transfer
+2025-03-27,Food,159,Credit Card
+2025-03-27,Food,150,Credit Card
+2025-03-28,Food,190,Credit Card
+2025-03-28,Entertainment,179,Credit Card
+2025-03-28,Food,140,Cash
+2025-03-29,Entertainment,74,Credit Card
+2025-03-29,Transport,93,Credit Card
+2025-03-30,Health,299,Bank Transfer
+2025-03-30,Shopping,262,Cash
+2025-03-31,Bills,312,Bank Transfer
+2025-03-31,Transport,66,Credit Card
+2025-03-31,Transport,21,Cash
+2025-04-01,Health,208,Credit Card
+2025-04-01,Shopping,787,Bank Transfer
+2025-04-02,Food,198,Bank Transfer
+2025-04-03,Food,179,Bank Transfer
+2025-04-04,Shopping,772,Bank Transfer
+2025-04-05,Entertainment,148,Cash
+2025-04-05,Entertainment,159,Cash
+2025-04-06,Shopping,619,Credit Card
+2025-04-06,Food,160,Cash
+2025-04-06,Shopping,225,Credit Card
+2025-04-07,Food,84,Credit Card
+2025-04-07,Bills,122,Bank Transfer
+2025-04-07,Entertainment,131,Credit Card
+2025-04-08,Bills,129,Credit Card
+2025-04-08,Food,50,Bank Transfer
+2025-04-08,Shopping,300,Cash
+2025-04-09,Health,69,Cash
+2025-04-09,Entertainment,174,Credit Card
+2025-04-09,Transport,32,Bank Transfer
+2025-04-10,Food,194,Bank Transfer
+2025-04-10,Transport,40,Bank Transfer
+2025-04-11,Health,115,Bank Transfer
+2025-04-11,Bills,281,Bank Transfer
+2025-04-11,Food,199,Cash
+2025-04-12,Bills,399,Cash
+2025-04-12,Food,37,Bank Transfer
+2025-04-12,Transport,79,Cash
+2025-04-13,Food,78,Credit Card
+2025-04-13,Food,164,Credit Card
+2025-04-13,Shopping,619,Bank Transfer
+2025-04-14,Bills,305,Bank Transfer
+2025-04-14,Health,252,Bank Transfer
+2025-04-14,Entertainment,68,Credit Card
+2025-04-15,Entertainment,124,Cash
+2025-04-15,Bills,129,Bank Transfer
+2025-04-15,Transport,36,Credit Card
+2025-04-16,Food,173,Bank Transfer
+2025-04-16,Food,66,Cash
+2025-04-16,Entertainment,149,Cash
+2025-04-17,Health,56,Bank Transfer
+2025-04-17,Food,91,Credit Card
+2025-04-18,Entertainment,90,Cash
+2025-04-18,Food,145,Cash
+2025-04-19,Transport,28,Cash
+2025-04-19,Food,101,Credit Card
+2025-04-20,Food,54,Credit Card
+2025-04-20,Shopping,327,Cash
+2025-04-20,Shopping,577,Credit Card
+2025-04-21,Transport,40,Credit Card
+2025-04-22,Shopping,271,Bank Transfer
+2025-04-23,Bills,307,Credit Card
+2025-04-24,Transport,35,Bank Transfer
+2025-04-24,Entertainment,138,Cash
+2025-04-25,Food,44,Credit Card
+2025-04-25,Entertainment,54,Credit Card
+2025-04-25,Shopping,669,Cash
+2025-04-26,Bills,267,Bank Transfer
+2025-04-26,Food,48,Credit Card
+2025-04-27,Shopping,793,Cash
+2025-04-27,Shopping,852,Cash
+2025-04-27,Entertainment,61,Cash
+2025-04-28,Bills,319,Bank Transfer
+2025-04-28,Entertainment,70,Credit Card
+2025-04-29,Shopping,999,Cash
+2025-04-30,Entertainment,151,Credit Card
+2025-05-01,Health,135,Cash
+2025-05-02,Health,162,Credit Card
+2025-05-02,Bills,218,Bank Transfer
+2025-05-03,Shopping,352,Cash
+2025-05-03,Food,36,Bank Transfer
+2025-05-03,Shopping,969,Credit Card
+2025-05-04,Shopping,209,Bank Transfer
+2025-05-04,Shopping,399,Cash
+2025-05-05,Bills,255,Bank Transfer
+2025-05-06,Health,255,Cash
+2025-05-06,Food,41,Credit Card
+2025-05-07,Food,148,Cash
+2025-05-07,Shopping,200,Credit Card
+2025-05-07,Food,98,Credit Card
+2025-05-08,Bills,260,Credit Card
+2025-05-08,Health,185,Bank Transfer
+2025-05-08,Shopping,934,Cash
+2025-05-09,Shopping,832,Credit Card
+2025-05-09,Bills,192,Credit Card
+2025-05-10,Health,103,Credit Card
+2025-05-10,Bills,390,Credit Card
+2025-05-10,Entertainment,159,Credit Card
+2025-05-11,Health,185,Credit Card
+2025-05-12,Shopping,705,Cash
+2025-05-12,Food,49,Credit Card
+2025-05-12,Shopping,606,Cash
+2025-05-13,Entertainment,117,Bank Transfer
+2025-05-13,Shopping,874,Cash
+2025-05-14,Bills,304,Credit Card
+2025-05-15,Entertainment,91,Cash
+2025-05-15,Food,108,Cash
+2025-05-16,Food,68,Cash
+2025-05-16,Entertainment,112,Credit Card
+2025-05-17,Food,61,Cash
+2025-05-18,Shopping,414,Credit Card
+2025-05-18,Transport,74,Credit Card
+2025-05-18,Transport,74,Credit Card
+2025-05-19,Transport,83,Bank Transfer
+2025-05-20,Entertainment,199,Bank Transfer
+2025-05-21,Transport,40,Cash
+2025-05-21,Health,132,Cash
+2025-05-22,Shopping,525,Bank Transfer
+2025-05-23,Food,79,Credit Card
+2025-05-23,Bills,255,Bank Transfer
+2025-05-24,Bills,331,Cash
+2025-05-25,Health,161,Cash
+2025-05-26,Health,76,Bank Transfer
+2025-05-26,Transport,86,Cash
+2025-05-26,Health,79,Credit Card
+2025-05-27,Health,198,Bank Transfer
+2025-05-28,Food,175,Cash
+2025-05-29,Shopping,612,Bank Transfer
+2025-05-29,Food,101,Cash
+2025-05-29,Food,178,Cash
+2025-05-30,Entertainment,122,Bank Transfer
+2025-05-30,Entertainment,131,Cash
+2025-05-30,Transport,99,Cash
+2025-05-31,Entertainment,179,Cash
+2025-05-31,Bills,309,Cash
+2025-06-01,Bills,149,Cash
+2025-06-01,Shopping,579,Credit Card
+2025-06-01,Entertainment,77,Cash
+2025-06-02,Shopping,211,Cash
+2025-06-02,Bills,246,Cash
+2025-06-02,Health,273,Bank Transfer
+2025-06-03,Food,144,Cash
+2025-06-04,Bills,183,Credit Card
+2025-06-04,Food,145,Credit Card
+2025-06-05,Health,72,Bank Transfer
+2025-06-06,Transport,88,Credit Card
+2025-06-07,Shopping,271,Cash
+2025-06-08,Shopping,847,Credit Card
+2025-06-09,Transport,87,Credit Card
+2025-06-09,Bills,378,Cash
+2025-06-09,Shopping,389,Bank Transfer
+2025-06-10,Bills,355,Credit Card
+2025-06-11,Shopping,435,Bank Transfer
+2025-06-11,Bills,307,Bank Transfer
+2025-06-11,Shopping,485,Credit Card
+2025-06-12,Food,79,Bank Transfer
+2025-06-12,Transport,63,Bank Transfer
+2025-06-12,Bills,240,Cash
+2025-06-13,Shopping,503,Bank Transfer
+2025-06-13,Shopping,435,Bank Transfer
+2025-06-14,Transport,80,Credit Card
+2025-06-14,Bills,306,Credit Card
+2025-06-14,Shopping,445,Bank Transfer
+2025-06-15,Bills,227,Cash
+2025-06-15,Shopping,251,Credit Card
+2025-06-15,Shopping,851,Credit Card
+2025-06-16,Bills,321,Credit Card
+2025-06-16,Health,282,Bank Transfer
+2025-06-17,Transport,21,Bank Transfer
+2025-06-18,Health,190,Cash
+2025-06-19,Food,192,Credit Card
+2025-06-19,Health,137,Cash
+2025-06-19,Transport,99,Credit Card
+2025-06-20,Food,110,Cash
+2025-06-20,Transport,36,Credit Card
+2025-06-21,Health,219,Bank Transfer
+2025-06-21,Bills,335,Credit Card
+2025-06-22,Shopping,380,Credit Card
+2025-06-22,Food,115,Credit Card
+2025-06-22,Health,123,Cash
+2025-06-23,Entertainment,191,Bank Transfer
+2025-06-23,Entertainment,143,Cash
+2025-06-23,Bills,344,Credit Card
+2025-06-24,Shopping,351,Credit Card
+2025-06-24,Shopping,761,Bank Transfer
+2025-06-25,Food,169,Cash
+2025-06-25,Food,140,Cash
+2025-06-25,Bills,400,Bank Transfer
+2025-06-26,Shopping,752,Credit Card
+2025-06-26,Bills,378,Cash
+2025-06-26,Transport,74,Credit Card
+2025-06-27,Food,35,Credit Card
+2025-06-28,Bills,276,Cash
+2025-06-28,Shopping,593,Credit Card
+2025-06-28,Health,51,Credit Card
+2025-06-29,Shopping,310,Credit Card
+2025-06-29,Transport,66,Credit Card
+2025-06-29,Food,123,Bank Transfer
+2025-06-30,Shopping,837,Credit Card
+2025-06-30,Food,113,Bank Transfer
+2025-06-30,Food,138,Credit Card
+2025-07-01,Health,121,Bank Transfer
+2025-07-01,Transport,99,Credit Card
+2025-07-02,Entertainment,142,Bank Transfer
+2025-07-02,Bills,295,Bank Transfer
+2025-07-02,Bills,377,Credit Card
+2025-07-03,Entertainment,52,Bank Transfer
+2025-07-03,Health,110,Credit Card
+2025-07-04,Food,67,Cash
+2025-07-04,Transport,12,Cash
+2025-07-04,Shopping,925,Credit Card
+2025-07-05,Entertainment,65,Bank Transfer
+2025-07-06,Shopping,843,Bank Transfer
+2025-07-07,Food,37,Cash
+2025-07-08,Shopping,623,Cash
+2025-07-08,Health,230,Bank Transfer
+2025-07-09,Food,101,Credit Card
+2025-07-10,Food,120,Credit Card
+2025-07-11,Transport,56,Credit Card
+2025-07-11,Transport,96,Credit Card
+2025-07-11,Shopping,225,Credit Card
+2025-07-12,Transport,36,Bank Transfer
+2025-07-13,Health,101,Credit Card
+2025-07-13,Food,100,Cash
+2025-07-13,Health,137,Cash
+2025-07-14,Food,42,Credit Card
+2025-07-15,Bills,101,Credit Card
+2025-07-15,Food,175,Cash
+2025-07-16,Entertainment,78,Bank Transfer
+2025-07-16,Bills,145,Cash
+2025-07-16,Transport,64,Credit Card
+2025-07-17,Health,191,Cash
+2025-07-18,Transport,20,Cash
+2025-07-18,Food,122,Cash
+2025-07-18,Bills,224,Cash
+2025-07-19,Entertainment,112,Cash
+2025-07-19,Food,142,Bank Transfer
+2025-07-19,Transport,63,Cash
+2025-07-20,Health,88,Cash
+2025-07-21,Food,77,Bank Transfer
+2025-07-21,Health,293,Bank Transfer
+2025-07-22,Bills,145,Credit Card
+2025-07-23,Bills,198,Cash
+2025-07-23,Bills,342,Credit Card
+2025-07-24,Entertainment,150,Credit Card
+2025-07-24,Transport,35,Cash
+2025-07-25,Entertainment,68,Bank Transfer
+2025-07-25,Health,283,Bank Transfer
+2025-07-26,Shopping,520,Cash
+2025-07-27,Food,155,Bank Transfer
+2025-07-28,Entertainment,128,Cash
+2025-07-28,Entertainment,128,Bank Transfer
+2025-07-29,Health,241,Credit Card
+2025-07-29,Health,281,Cash
+2025-07-30,Entertainment,178,Bank Transfer
+2025-07-30,Entertainment,84,Bank Transfer
+2025-07-30,Health,263,Credit Card
+2025-07-31,Transport,76,Credit Card
+2025-07-31,Health,171,Credit Card
+2025-07-31,Food,114,Cash
+2025-08-01,Shopping,609,Credit Card
+2025-08-01,Transport,71,Bank Transfer
+2025-08-02,Transport,66,Cash
+2025-08-02,Entertainment,155,Credit Card
+2025-08-03,Bills,195,Credit Card
+2025-08-04,Food,93,Credit Card
+2025-08-04,Transport,32,Credit Card
+2025-08-04,Food,134,Bank Transfer
+2025-08-05,Health,226,Cash
+2025-08-05,Bills,273,Bank Transfer
+2025-08-05,Shopping,641,Credit Card
+2025-08-06,Entertainment,92,Cash
+2025-08-06,Shopping,694,Bank Transfer
+2025-08-06,Bills,332,Cash
+2025-08-07,Food,115,Credit Card
+2025-08-08,Health,235,Bank Transfer
+2025-08-08,Bills,295,Cash
+2025-08-09,Entertainment,75,Credit Card
+2025-08-09,Health,126,Bank Transfer
+2025-08-10,Bills,111,Bank Transfer
+2025-08-10,Entertainment,186,Cash
+2025-08-11,Health,80,Credit Card
+2025-08-11,Entertainment,135,Cash
+2025-08-11,Shopping,615,Credit Card
+2025-08-12,Bills,204,Bank Transfer
+2025-08-13,Food,171,Credit Card
+2025-08-13,Transport,29,Bank Transfer
+2025-08-14,Entertainment,170,Cash
+2025-08-15,Transport,57,Cash
+2025-08-16,Food,108,Bank Transfer
+2025-08-16,Shopping,565,Cash
+2025-08-17,Bills,256,Credit Card
+2025-08-18,Food,98,Bank Transfer
+2025-08-18,Bills,398,Bank Transfer
+2025-08-18,Food,126,Bank Transfer
+2025-08-19,Transport,79,Credit Card
+2025-08-19,Bills,257,Bank Transfer
+2025-08-19,Shopping,391,Cash
+2025-08-20,Health,283,Cash
+2025-08-20,Entertainment,51,Credit Card
+2025-08-21,Health,176,Credit Card
+2025-08-22,Food,160,Bank Transfer
+2025-08-23,Entertainment,51,Bank Transfer
+2025-08-24,Food,108,Bank Transfer
+2025-08-25,Entertainment,189,Cash
+2025-08-25,Shopping,298,Credit Card
+2025-08-25,Bills,268,Credit Card
+2025-08-26,Transport,78,Bank Transfer
+2025-08-26,Food,44,Bank Transfer
+2025-08-26,Transport,80,Cash
+2025-08-27,Food,133,Bank Transfer
+2025-08-27,Food,125,Credit Card
+2025-08-27,Health,58,Cash
+2025-08-28,Bills,380,Bank Transfer
+2025-08-29,Bills,338,Credit Card
+2025-08-29,Shopping,544,Cash
+2025-08-30,Bills,301,Cash
+2025-08-30,Food,152,Bank Transfer
+2025-08-30,Bills,399,Cash
+2025-08-31,Health,167,Bank Transfer
+2025-09-01,Bills,200,Bank Transfer
+2025-09-01,Entertainment,200,Cash
+2025-09-01,Entertainment,77,Cash
+2025-09-02,Entertainment,56,Bank Transfer
+2025-09-03,Shopping,535,Cash
+2025-09-03,Health,147,Bank Transfer
+2025-09-04,Health,182,Cash
+2025-09-04,Health,184,Credit Card
+2025-09-04,Bills,128,Bank Transfer
+2025-09-05,Transport,98,Bank Transfer
+2025-09-05,Entertainment,90,Credit Card
+2025-09-06,Entertainment,90,Credit Card
+2025-09-06,Shopping,658,Bank Transfer
+2025-09-06,Bills,393,Bank Transfer
+2025-09-07,Bills,222,Credit Card
+2025-09-07,Entertainment,89,Bank Transfer
+2025-09-08,Food,48,Bank Transfer
+2025-09-09,Bills,184,Credit Card
+2025-09-09,Transport,100,Bank Transfer
+2025-09-10,Health,270,Credit Card
+2025-09-11,Transport,17,Credit Card
+2025-09-11,Transport,100,Credit Card
+2025-09-12,Bills,116,Credit Card
+2025-09-12,Entertainment,143,Credit Card
+2025-09-12,Shopping,503,Bank Transfer
+2025-09-13,Bills,275,Credit Card
+2025-09-13,Transport,25,Cash
+2025-09-14,Entertainment,150,Credit Card
+2025-09-15,Shopping,686,Bank Transfer
+2025-09-15,Bills,133,Credit Card
+2025-09-15,Shopping,365,Cash
+2025-09-16,Health,63,Bank Transfer
+2025-09-16,Entertainment,147,Credit Card
+2025-09-17,Food,118,Bank Transfer
+2025-09-18,Entertainment,156,Bank Transfer
+2025-09-18,Entertainment,117,Cash
+2025-09-18,Food,46,Bank Transfer
+2025-09-19,Food,110,Bank Transfer
+2025-09-19,Bills,103,Credit Card
+2025-09-19,Transport,85,Cash
+2025-09-20,Bills,189,Cash
+2025-09-20,Health,256,Bank Transfer
+2025-09-20,Food,95,Bank Transfer
+2025-09-21,Transport,31,Bank Transfer
+2025-09-21,Food,166,Cash
+2025-09-21,Bills,232,Cash
+2025-09-22,Health,198,Bank Transfer
+2025-09-22,Shopping,643,Bank Transfer
+2025-09-23,Shopping,800,Bank Transfer
+2025-09-23,Entertainment,87,Bank Transfer
+2025-09-23,Transport,92,Cash
+2025-09-24,Transport,62,Credit Card
+2025-09-24,Bills,249,Bank Transfer
+2025-09-25,Health,244,Bank Transfer
+2025-09-25,Food,190,Credit Card
+2025-09-25,Bills,230,Credit Card
+2025-09-26,Food,105,Credit Card
+2025-09-27,Bills,207,Bank Transfer
+2025-09-28,Entertainment,84,Bank Transfer
+2025-09-29,Food,47,Bank Transfer
+2025-09-29,Health,253,Cash
+2025-09-29,Food,38,Cash
+2025-09-30,Health,211,Credit Card
+2025-09-30,Health,238,Credit Card
+2025-09-30,Transport,15,Credit Card
+2025-10-01,Shopping,577,Cash
+2025-10-01,Transport,92,Bank Transfer
+2025-10-02,Health,215,Bank Transfer
+2025-10-02,Transport,65,Bank Transfer
+2025-10-02,Bills,392,Bank Transfer
+2025-10-03,Shopping,494,Bank Transfer
+2025-10-03,Health,136,Cash
+2025-10-04,Bills,104,Credit Card
+2025-10-04,Transport,26,Bank Transfer
+2025-10-04,Bills,289,Bank Transfer
+2025-10-05,Shopping,545,Cash
+2025-10-05,Health,282,Bank Transfer
+2025-10-05,Transport,47,Cash
+2025-10-06,Bills,140,Cash
+2025-10-06,Entertainment,160,Cash
+2025-10-06,Food,140,Credit Card
+2025-10-07,Transport,31,Cash
+2025-10-07,Entertainment,123,Cash
+2025-10-08,Entertainment,104,Credit Card
+2025-10-08,Transport,45,Credit Card
+2025-10-09,Bills,183,Cash
+2025-10-09,Shopping,783,Credit Card
+2025-10-09,Shopping,346,Bank Transfer
+2025-10-10,Health,103,Credit Card
+2025-10-11,Shopping,882,Bank Transfer
+2025-10-11,Shopping,766,Bank Transfer
+2025-10-11,Bills,396,Cash
+2025-10-12,Food,69,Cash
+2025-10-12,Transport,76,Cash
+2025-10-12,Bills,114,Bank Transfer
+2025-10-13,Health,221,Cash
+2025-10-14,Transport,66,Cash
+2025-10-14,Transport,30,Cash
+2025-10-15,Transport,84,Bank Transfer
+2025-10-16,Shopping,734,Credit Card
+2025-10-16,Shopping,849,Cash
+2025-10-16,Food,130,Credit Card
+2025-10-17,Transport,69,Credit Card
+2025-10-18,Entertainment,78,Bank Transfer
+2025-10-19,Entertainment,89,Cash
+2025-10-19,Health,194,Cash
+2025-10-20,Shopping,978,Bank Transfer
+2025-10-20,Shopping,636,Cash
+2025-10-21,Shopping,766,Bank Transfer
+2025-10-21,Bills,300,Credit Card
+2025-10-21,Bills,121,Bank Transfer
+2025-10-22,Health,175,Cash
+2025-10-22,Health,164,Cash
+2025-10-22,Food,50,Cash
+2025-10-23,Health,213,Credit Card
+2025-10-24,Food,134,Cash
+2025-10-24,Transport,35,Credit Card
+2025-10-25,Shopping,238,Bank Transfer
+2025-10-25,Bills,165,Credit Card
+2025-10-25,Health,129,Cash
+2025-10-26,Shopping,419,Bank Transfer
+2025-10-27,Food,71,Bank Transfer
+2025-10-27,Transport,34,Bank Transfer
+2025-10-27,Transport,91,Credit Card
+2025-10-28,Bills,223,Credit Card
+2025-10-28,Transport,79,Credit Card
+2025-10-28,Food,150,Credit Card
+2025-10-29,Entertainment,149,Credit Card
+2025-10-29,Health,291,Cash
+2025-10-29,Health,159,Bank Transfer
+2025-10-30,Transport,66,Credit Card
+2025-10-30,Bills,325,Cash
+2025-10-31,Shopping,258,Credit Card
+2025-10-31,Entertainment,146,Cash
+2025-10-31,Health,287,Credit Card
+2025-11-01,Transport,44,Credit Card
+2025-11-02,Health,295,Bank Transfer
+2025-11-02,Food,142,Bank Transfer
+2025-11-03,Health,104,Cash
+2025-11-04,Bills,253,Credit Card
+2025-11-05,Shopping,916,Bank Transfer
+2025-11-05,Bills,164,Bank Transfer
+2025-11-05,Health,243,Bank Transfer
+2025-11-06,Transport,23,Bank Transfer
+2025-11-06,Shopping,841,Cash
+2025-11-07,Entertainment,169,Bank Transfer
+2025-11-08,Food,88,Bank Transfer
+2025-11-09,Food,197,Credit Card
+2025-11-10,Transport,59,Cash
+2025-11-10,Food,30,Credit Card
+2025-11-11,Food,161,Credit Card
+2025-11-11,Health,105,Credit Card
+2025-11-12,Bills,145,Credit Card
+2025-11-12,Transport,70,Credit Card
+2025-11-13,Health,135,Credit Card
+2025-11-13,Transport,85,Bank Transfer
+2025-11-14,Bills,208,Bank Transfer
+2025-11-15,Health,154,Cash
+2025-11-16,Food,36,Cash
+2025-11-16,Entertainment,184,Credit Card
+2025-11-16,Health,208,Cash
+2025-11-17,Entertainment,110,Credit Card
+2025-11-17,Bills,251,Credit Card
+2025-11-18,Shopping,424,Cash
+2025-11-18,Health,251,Cash
+2025-11-19,Shopping,483,Bank Transfer
+2025-11-19,Food,136,Credit Card
+2025-11-20,Food,39,Credit Card
+2025-11-20,Food,179,Credit Card
+2025-11-21,Food,38,Credit Card
+2025-11-22,Transport,42,Cash
+2025-11-22,Bills,306,Bank Transfer
+2025-11-22,Transport,33,Bank Transfer
+2025-11-23,Bills,272,Bank Transfer
+2025-11-24,Health,181,Credit Card
+2025-11-25,Entertainment,161,Credit Card
+2025-11-26,Shopping,417,Cash
+2025-11-26,Food,182,Cash
+2025-11-26,Transport,29,Credit Card
+2025-11-27,Bills,378,Cash
+2025-11-27,Food,30,Credit Card
+2025-11-28,Shopping,862,Bank Transfer
+2025-11-29,Food,180,Bank Transfer
+2025-11-29,Health,147,Cash
+2025-11-30,Bills,392,Cash
+2025-11-30,Bills,322,Bank Transfer
+2025-12-01,Entertainment,137,Bank Transfer
+2025-12-02,Food,197,Credit Card
+2025-12-03,Health,245,Bank Transfer
+2025-12-04,Bills,197,Cash
+2025-12-05,Entertainment,101,Bank Transfer
+2025-12-05,Entertainment,58,Cash
+2025-12-06,Bills,371,Credit Card
+2025-12-07,Health,141,Credit Card
+2025-12-08,Health,179,Bank Transfer
+2025-12-09,Shopping,347,Cash
+2025-12-09,Shopping,362,Bank Transfer
+2025-12-09,Health,248,Bank Transfer
+2025-12-10,Health,61,Cash
+2025-12-11,Shopping,722,Cash
+2025-12-11,Entertainment,79,Credit Card
+2025-12-11,Health,266,Bank Transfer
+2025-12-12,Bills,186,Cash
+2025-12-12,Health,170,Credit Card
+2025-12-13,Food,193,Cash
+2025-12-13,Health,191,Cash
+2025-12-13,Shopping,615,Credit Card
+2025-12-14,Bills,111,Credit Card
+2025-12-14,Transport,76,Credit Card
+2025-12-15,Entertainment,82,Cash
+2025-12-16,Food,160,Credit Card
+2025-12-17,Bills,121,Credit Card
+2025-12-17,Food,123,Bank Transfer
+2025-12-18,Transport,23,Cash
+2025-12-19,Health,52,Credit Card
+2025-12-19,Entertainment,186,Credit Card
+2025-12-20,Bills,180,Bank Transfer
+2025-12-20,Food,73,Cash
+2025-12-20,Food,100,Bank Transfer
+2025-12-21,Food,81,Credit Card
+2025-12-21,Health,171,Cash
+2025-12-21,Food,136,Credit Card
+2025-12-22,Transport,14,Cash
+2025-12-23,Transport,69,Cash
+2025-12-24,Entertainment,135,Bank Transfer
+2025-12-25,Bills,193,Bank Transfer
+2025-12-25,Food,177,Credit Card
+2025-12-26,Bills,325,Cash
+2025-12-27,Entertainment,132,Bank Transfer
+2025-12-28,Health,229,Credit Card
+2025-12-28,Bills,220,Credit Card
+2025-12-29,Health,80,Cash
+2025-12-30,Entertainment,188,Credit Card
+2025-12-30,Entertainment,134,Bank Transfer
+2025-12-31,Bills,233,Credit Card
+2025-12-31,Entertainment,147,Bank Transfer
